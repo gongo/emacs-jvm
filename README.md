@@ -7,8 +7,8 @@
 ## DEMONSTRATION
 
 | HelloWorld.java                             | Argument.java                               |
-|---------------------------------------------+---------------------------------------------|
-| ![HelloWorld.java](./images/HelloWorld.png) | ![Argument.java](./images/Argument.gif) |
+|---------------------------------------------|---------------------------------------------|
+| ![HelloWorld.java](./images/HelloWorld.png) | ![Argument.java](./images/Argument.gif)     |
 
 ## USAGE
 
